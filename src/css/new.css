@@ -1,0 +1,16 @@
+markdown-toolbar md-bold,
+markdown-toolbar md-header,
+markdown-toolbar md-italic,
+markdown-toolbar md-quote,
+markdown-toolbar md-code,
+markdown-toolbar md-link,
+markdown-toolbar md-image,
+markdown-toolbar md-ordered-list {
+  display: inline-flex;
+  padding: 5px;
+}
+
+markdown-toolbar {
+    display: flex;
+    gap: 5px;
+}
